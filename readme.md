@@ -1,6 +1,6 @@
 # Simple Memory Game
 
-A browser-based memory matching game built with **Phaser** in 2023.
+(Note: This project was made in 2023, but I decided to upload it to GitHub in 2026 to keep it safe :D)
 
 This project was created as a way for me to learn the Phaser game framework and gain hands-on experience with game development concepts such as player movement, keyboard input, timers, collision detection, and game state management.
 
